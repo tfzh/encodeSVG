@@ -4,6 +4,7 @@
 
 此工具是学生时代写前端时候，将SVG图片encode为css background-image的小工具，后面域名已经莫得了，现在估计也没人在用这个工具了，留待以后整理
 @todo 迁移到gitee
+
 ~~线上工具地址【传送门】:[http://www.xiyoulive.com/encodeSVG](http://www.xiyoulive.com/encodeSVG)~~
 
 用的方便还请给个star
